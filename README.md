@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajeshprathaban
+- 👋 Hi, I am @rajeshprathaban
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Javascript
 
 <!---
 rajeshprathaban/rajeshprathaban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
