@@ -1,6 +1,6 @@
 - 👋 Hi, I am @rajeshprathaban
+- 🌱 I’m a Senior Java Developer
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript
 
 <!---
 rajeshprathaban/rajeshprathaban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
